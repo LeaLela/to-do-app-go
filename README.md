@@ -13,7 +13,7 @@ Application allows users to create, edit, mark as completed, and delete tasks.
 - Edit existing tasks
 - Marktasks as completed
 
-## Tehnologije
+## Technologies
 
 - **Go**
 - **React**
